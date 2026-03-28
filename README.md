@@ -8,6 +8,7 @@ No jargon walls. No 40-page PDFs. Just the ideas that matter, explained clearly.
 
 | Paper | arXiv | Read |
 |-------|-------|------|
+| [Can LLMs Beat Classi](papers/can-llms-beat-classi.md) | [arXiv](https://arxiv.org/abs/2603.24647) · [HF](https://huggingface.co/papers/2603.24647) | [Read on PaperGlide](https://paperglide.net/papers/fk4vuj4c) |
 | [Evaluating Language ](papers/evaluating-language.md) | [arXiv](https://arxiv.org/abs/2603.25326) · [HF](https://huggingface.co/papers/2603.25326) | [Read on PaperGlide](https://paperglide.net/papers/v1y33wqx) |
 | [Prune as You Generat](papers/prune-as-you-generat.md) | [arXiv](https://arxiv.org/abs/2603.24840) · [HF](https://huggingface.co/papers/2603.24840) | [Read on PaperGlide](https://paperglide.net/papers/m4e2vmbs) |
 | [Voxtral TTS](papers/voxtral-tts.md) | [arXiv](https://arxiv.org/abs/2603.25551) · [HF](https://huggingface.co/papers/2603.25551) | [Read on PaperGlide](https://paperglide.net/papers/06wlfi1i) |
