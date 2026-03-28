@@ -8,6 +8,7 @@ No jargon walls. No 40-page PDFs. Just the ideas that matter, explained clearly.
 
 | Paper | arXiv | Read |
 |-------|-------|------|
+| [Model Predictive Con](papers/model-predictive-con.md) | [arXiv](https://arxiv.org/abs/2603.2243) · [HF](https://huggingface.co/papers/2603.2243) | [Read on PaperGlide](https://paperglide.net/papers/m2m7cvex) |
 | [LongCat-Flash-Prover; Adv](papers/longcat-flash-prover-adv.md) | [arXiv](https://arxiv.org/abs/2603.21065) · [HF](https://huggingface.co/papers/2603.21065) | [Read on PaperGlide](https://paperglide.net/papers/1fro0mmp) |
 
 ## How it works
